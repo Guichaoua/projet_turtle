@@ -1,0 +1,4 @@
+Ecrire vos jeux d'essais, choisis pour couvrir le plus possible de cas du problème. 
+Indiquer les variables testées en entrées et indique les résultats obtenus après exécutions. 
+
+(A compléter)
